@@ -1,0 +1,461 @@
+
+Command
+,my-tweets donaldtrump,
+**** Tweets ****
+,To follow Donald J. Trump visit @realDonaldTrump.,
+**** Created At ****
+,Sat May 28 03:14:28 +0000 2016
+Command
+,my-tweets @realDonaldTrump,
+**** Tweets ****
+,Venezuela should allow Leopoldo Lopez, a political prisoner &amp; husband of @liliantintori (just met w/ @marcorubio) o… https://t.co/HhgE51dtSN,
+**** Created At ****
+,Wed Feb 15 23:59:26 +0000 2017,
+**** Tweets ****
+,Aetna CEO: Obamacare in 'Death Spiral' #RepealAndReplace 
+https://t.co/dmHL7xIEQv,
+**** Created At ****
+,Wed Feb 15 21:34:05 +0000 2017,
+**** Tweets ****
+,Join me in Florida this Saturday at 5pm for a rally at the Orlando-Melbourne International Airport!
+Tickets:… https://t.co/OigfXFECPp,
+**** Created At ****
+,Wed Feb 15 19:45:16 +0000 2017,
+**** Tweets ****
+,Welcome to the United States, @IsraeliPM Benjamin &amp; Sara!
+#ICYMI🇺🇸🇮🇱Joint Press Conference: 
+https://t.co/GN6ALWUusN https://t.co/bH60nBL5FP,
+**** Created At ****
+,Wed Feb 15 19:17:59 +0000 2017,
+**** Tweets ****
+,Great listening session with CEO's of the Retail Industry Leaders Association this morning! https://t.co/sy6xJcWfcF,
+**** Created At ****
+,Wed Feb 15 16:34:27 +0000 2017,
+**** Tweets ****
+,The real scandal here is that classified information is illegally given out by "intelligence" like candy. Very un-American!,
+**** Created At ****
+,Wed Feb 15 13:13:10 +0000 2017,
+**** Tweets ****
+,Crimea was TAKEN by Russia during the Obama Administration. Was Obama too soft on Russia?,
+**** Created At ****
+,Wed Feb 15 12:42:20 +0000 2017,
+**** Tweets ****
+,Thank you to Eli Lake of The Bloomberg View - "The NSA &amp; FBI...should not interfere in our politics...and is" Very serious situation for USA,
+**** Created At ****
+,Wed Feb 15 12:28:37 +0000 2017,
+**** Tweets ****
+,Information is being illegally given to the failing @nytimes &amp; @washingtonpost by the intelligence community (NSA and FBI?).Just like Russia,
+**** Created At ****
+,Wed Feb 15 12:19:18 +0000 2017,
+**** Tweets ****
+,This Russian connection non-sense is merely an attempt to cover-up the many mistakes made in Hillary Clinton's losing campaign.,
+**** Created At ****
+,Wed Feb 15 12:08:12 +0000 2017,
+**** Tweets ****
+,The fake news media is going crazy with their conspiracy theories and blind hatred. @MSNBC &amp; @CNN are unwatchable. @foxandfriends is great!,
+**** Created At ****
+,Wed Feb 15 11:40:32 +0000 2017,
+**** Tweets ****
+,Obamacare continues to fail. Humana to pull out in 2018. Will repeal, replace &amp; save healthcare for ALL Americans. 
+https://t.co/glWEQ0lNR4,
+**** Created At ****
+,Tue Feb 14 22:50:33 +0000 2017,
+**** Tweets ****
+,'Remarks by President Trump at Signing of H.J. Resolution 41'
+https://t.co/Q3MoCGAc54 https://t.co/yGDDTKm9Br,
+**** Created At ****
+,Tue Feb 14 21:48:10 +0000 2017,
+**** Tweets ****
+,Great parent-teacher listening session this morning with @VP Pence &amp; @usedgov Secretary @BetsyDeVos. Watch:… https://t.co/nuLTs513Ot,
+**** Created At ****
+,Tue Feb 14 20:21:59 +0000 2017,
+**** Tweets ****
+,The real story here is why are there so many illegal leaks coming out of Washington? Will these leaks be happening as I deal on N.Korea etc?,
+**** Created At ****
+,Tue Feb 14 14:28:54 +0000 2017,
+**** Tweets ****
+,Congratulations to our new #VASecretary Dr. David Shulkin. Time to take care of Veterans who have fought to protect… https://t.co/FNewjbHuw4,
+**** Created At ****
+,Tue Feb 14 03:30:45 +0000 2017,
+**** Tweets ****
+,Congratulations Treasury Secretary Steven Mnuchin! #ICYMI- watch here: https://t.co/RPsmw4yD7y https://t.co/K8tWLlXiYK,
+**** Created At ****
+,Tue Feb 14 02:57:05 +0000 2017,
+**** Tweets ****
+,Wonderful meeting with Canadian PM @JustinTrudeau and a group of leading CEO's &amp; business women from Canada🇨🇦and th… https://t.co/wAoCOaYeZ6,
+**** Created At ****
+,Mon Feb 13 18:50:57 +0000 2017,
+**** Tweets ****
+,Welcome to the @WhiteHouse Prime Minister @JustinTrudeau! https://t.co/WKgF8Zo9ri,
+**** Created At ****
+,Mon Feb 13 16:59:06 +0000 2017,
+**** Tweets ****
+,Today I will meet with Canadian PM Trudeau and a group of leading business women to discuss women in the workforce. https://t.co/bFAHPRXHdP,
+**** Created At ****
+,Mon Feb 13 15:53:08 +0000 2017
+Command
+,spotify-this-song  paradise,
+********* Album Name ********
+,Mylo Xyloto,
+********* Name of the song ********
+,Paradise,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/99475c9d11e4df26ca9d1460fbe0654e687d79e0?cid=null,
+********* Artists ********
+,Coldplay,
+********* Album Name ********
+,Dark Sky Paradise,
+********* Name of the song ********
+,I Don't Fuck With You,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/fde81561775f9fd66cff49dcd0afa0d13cba1a99?cid=null,
+********* Artists ********
+,Big Sean,
+********* Artists ********
+,E-40,
+********* Album Name ********
+,Dark Sky Paradise,
+********* Name of the song ********
+,Blessings,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/2db70ccc6663813993bffce236d6fa08f29662f3?cid=null,
+********* Artists ********
+,Big Sean,
+********* Artists ********
+,Drake,
+********* Album Name ********
+,Dark Sky Paradise,
+********* Name of the song ********
+,I Know,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/b9cff8ee2af0abacd102c2f198487fad6405acae?cid=null,
+********* Artists ********
+,Big Sean,
+********* Artists ********
+,Jhene Aiko,
+********* Album Name ********
+,Appetite For Destruction,
+********* Name of the song ********
+,Paradise City,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/b8995a30964d50cd30fccab54eb29d611e6b7d00?cid=null,
+********* Artists ********
+,Guns N' Roses,
+********* Album Name ********
+,Paradise,
+********* Name of the song ********
+,Paradise,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/66eaa12e36267f4995387d1230d02a51a60699b8?cid=null,
+********* Artists ********
+,Big Sean,
+********* Album Name ********
+,Dark Sky Paradise,
+********* Name of the song ********
+,Paradise - Extended,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/5f6596d598792b4ef30c7b101af199ec4ee11d21?cid=null,
+********* Artists ********
+,Big Sean,
+********* Album Name ********
+,Somewhere in Paradise (feat. Jeremih & R. Kelly),
+********* Name of the song ********
+,Somewhere in Paradise (feat. Jeremih & R. Kelly),
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/ada4c69b9262adb65f04c4bf6843f74f965bf64b?cid=null,
+********* Artists ********
+,Chance The Rapper,
+********* Artists ********
+,Jeremih,
+********* Artists ********
+,R. Kelly,
+********* Album Name ********
+,Born To Die - The Paradise Edition,
+********* Name of the song ********
+,Dark Paradise,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/f1000dd8eca7b404b8953d998d106bcda3056c9a?cid=null,
+********* Artists ********
+,Lana Del Rey,
+********* Album Name ********
+,Dark Sky Paradise,
+********* Name of the song ********
+,One Man Can Change The World,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/2e8d2a8c40e0bf1a53a69c36033b390c004ba07c?cid=null,
+********* Artists ********
+,Big Sean,
+********* Artists ********
+,John Legend,
+********* Artists ********
+,Kanye West,
+********* Album Name ********
+,The Incredible True Story,
+********* Name of the song ********
+,Paradise,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/5fbf9686bff1cda384018e14e5fe56c585d10065?cid=null,
+********* Artists ********
+,Logic,
+********* Artists ********
+,Jesse Boykins III,
+********* Album Name ********
+,Paradise Valley,
+********* Name of the song ********
+,Who You Love,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/189ff69a7243412de5d003bc52ffcbbc9496f238?cid=null,
+********* Artists ********
+,John Mayer,
+********* Artists ********
+,Katy Perry,
+********* Album Name ********
+,Paradise Valley,
+********* Name of the song ********
+,Wildfire,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/4a11f49c0d443fbf20afe8abba12a3720237dce4?cid=null,
+********* Artists ********
+,John Mayer,
+********* Album Name ********
+,Born To Die - The Paradise Edition,
+********* Name of the song ********
+,Summertime Sadness,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/70fd76d91ddc1aaf69575b8da46ba0d35254929b?cid=null,
+********* Artists ********
+,Lana Del Rey,
+********* Album Name ********
+,Born To Die - The Paradise Edition,
+********* Name of the song ********
+,Video Games,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/a159675af6992f4ea201f6a0211055e6d60f1670?cid=null,
+********* Artists ********
+,Lana Del Rey,
+********* Album Name ********
+,Late Nights: The Album,
+********* Name of the song ********
+,Paradise,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/063ca8eed057958f9079a0efac75ad52b8f1c78c?cid=null,
+********* Artists ********
+,Jeremih,
+********* Album Name ********
+,Dark Sky Paradise (Deluxe),
+********* Name of the song ********
+,Paradise - Extended,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/9f174aca8b4325e426aa9fd949e8413fe80b4a61?cid=null,
+********* Artists ********
+,Big Sean,
+********* Album Name ********
+,Dark Sky Paradise,
+********* Name of the song ********
+,Play No Games,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/6133f7efea59144382e13fb85b287f6e72148183?cid=null,
+********* Artists ********
+,Big Sean,
+********* Artists ********
+,Ty Dolla $ign,
+********* Artists ********
+,Chris Brown,
+********* Album Name ********
+,Change of Scenery,
+********* Name of the song ********
+,Another Day in Paradise,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/ce833a248e413298c838f3f0ea3d4d49f3397af3?cid=null,
+********* Artists ********
+,Quinn XCII,
+********* Album Name ********
+,Swings,
+********* Name of the song ********
+,Paradise,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/fcc15fbf7d096c5ba19ac5f9225af6a43895d95f?cid=null,
+********* Artists ********
+,Ryan Caraveo
+Command
+,movie-this  titanic,
+********* Movie Title ********
+,Titanic,
+********* Year Released ********
+,1997,
+********* IMDB Rating ********
+,3.9,
+********* Movie Plot ********
+,This cinematic spectacle -- winner of 11 Oscars -- follows society girl Rose and penniless artist Jack as they fall in love just as tragedy strikes.,
+********* Movie Actors ********
+,Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Frances Fisher, Gloria Stuart, Bill Paxton, Bernard Hill, David Warner, Victor Garber
+Command
+,spotify-this-song "I Want it That Way",
+********* Album Name ********
+,The Hits--Chapter One,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null,
+********* Artists ********
+,Backstreet Boys,
+********* Album Name ********
+,Millennium,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null,
+********* Artists ********
+,Backstreet Boys,
+********* Album Name ********
+,90 Sweet 90s Hits!,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null,
+********* Artists ********
+,Backstreet Boys,
+********* Album Name ********
+,The Essential Backstreet Boys,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null,
+********* Artists ********
+,Backstreet Boys,
+********* Album Name ********
+,Bye Bye Bye / I Want It That Way (Glee Cast Version),
+********* Name of the song ********
+,Bye Bye Bye / I Want It That Way (Glee Cast Version),
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null,
+********* Artists ********
+,Glee Cast,
+********* Album Name ********
+,I Want It That Way,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null,
+********* Artists ********
+,Brittany Howard,
+********* Artists ********
+,Jim James,
+********* Album Name ********
+,I Want It That Way (Instrumental Version),
+********* Name of the song ********
+,I Want It That Way - Instrumental Version,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/46a2c637536f1cbe5543de63f2c803c250b3d844?cid=null,
+********* Artists ********
+,In The Name Of Love,
+********* Album Name ********
+,Covers Part IV,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null,
+********* Artists ********
+,Anthem Lights,
+********* Album Name ********
+,I Want It That Way,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=null,
+********* Artists ********
+,Kyle Olthoff,
+********* Artists ********
+,Destiny Jenkins,
+********* Album Name ********
+,Punk Goes Pop,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null,
+********* Artists ********
+,Dynamite Boy,
+********* Album Name ********
+,New Acoustic Sessions, Vol. 3,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null,
+********* Artists ********
+,Boyce Avenue,
+********* Album Name ********
+,The Essential Weird Al Yankovic,
+********* Name of the song ********
+,Ebay (Parody of "I Want It That Way" by the Backstreet Boys),
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null,
+********* Artists ********
+,"Weird Al" Yankovic,
+********* Album Name ********
+,Poodle Hat,
+********* Name of the song ********
+,Ebay (Parody of "I Want It That Way" by the Backstreet Boys),
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null,
+********* Artists ********
+,"Weird Al" Yankovic,
+********* Album Name ********
+,I Want It That Way,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null,
+********* Artists ********
+,Steel Panther,
+********* Album Name ********
+,I Want It That Way,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null,
+********* Artists ********
+,Landon Austin & Julia Sheer,
+********* Album Name ********
+,NKOTBSB,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null,
+********* Artists ********
+,Backstreet Boys,
+********* Album Name ********
+,Selfies on Kodachrome,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null,
+********* Artists ********
+,Scott Bradlee's Postmodern Jukebox,
+********* Artists ********
+,Shoshana Bean,
+********* Album Name ********
+,PMJ Is For Lovers: The Love Song Collection,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null,
+********* Artists ********
+,Scott Bradlee's Postmodern Jukebox,
+********* Artists ********
+,Shoshana Bean,
+********* Album Name ********
+,I Want It That Way,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null,
+********* Artists ********
+,FROIDZ,
+********* Album Name ********
+,NOW That's What I Call 90s Pop,
+********* Name of the song ********
+,I Want It That Way,
+********* Preview Link ********
+,https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=null,
+********* Artists ********
+,Backstreet Boys
